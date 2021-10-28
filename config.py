@@ -40,7 +40,7 @@ GITHUB_OAUTH_SECRET = '74e7e1837a98c7e0e4cd7fcf8b955894465964ec'
 # Slack
 ## Slack App
 SLACK_CLIENT_ID = '730191371696.1410179799078'
-SLACK_CLIENT_SECRET = 'f90dd63cdcb13662a6f4b008081c1524'
+SLACK_CLIENT_SECRET = 'Kiansh@03112020'
 webhook = https://hooks.slack.com/services/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
 userid = akansha.agarwal@india.nec.com
 pwd = Kiansh@03112020
